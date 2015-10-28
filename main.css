@@ -1,0 +1,42 @@
+/* 
+    Author     : abvrd
+*/
+table {
+    margin: 0 auto;
+    text-align: center;
+    border: 3px solid #ddd !important;
+    max-width: 375px !important;
+}
+
+td {
+    vertical-align: middle !important;
+}
+
+.cell-border-right {
+    border-right: 3px solid #ddd !important;
+}
+
+.cell-border-bottom {
+    border-bottom: 3px solid #ddd !important;
+}
+
+input[type=text] {
+    max-width: 30px;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+.header {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e5e5e5;
+    margin: 10px 0;
+}
+
+#actions .btn {
+    width: 75px !important;
+    display: block;
+    margin: 5px 0 !important;
+}
