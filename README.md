@@ -1,6 +1,8 @@
 # Sudoku
 A PHP sudoku resolver
 
+PHP, Bootstrap
+
 Installation
 -----------
 
